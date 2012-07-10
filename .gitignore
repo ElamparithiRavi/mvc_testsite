@@ -1,0 +1,9 @@
+*.suo
+*.opensdf
+_ReSharper*
+*.user
+*.sdf
+bin
+obj
+Debug
+Release
